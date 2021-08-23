@@ -1,6 +1,6 @@
-# memories
+# Pointless Mindscape - a 2.5D Platform-Adventure Unity Game
 
-**Play the game [here](https://aprilding.com/memories)**
+**Play the game [here](https://aprilding.com/memories)** \
 **Read about the process of creating [here](https://aprilding.com/projects/memories.html)**
 
 This is my senior capstone project at UCLA. \
